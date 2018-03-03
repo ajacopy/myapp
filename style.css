@@ -62,16 +62,11 @@ a:hover {
   color: white;
   font-size: 30px;
   text-shadow: 1px 1px 10px black;
-  height: 100vh;
+  height: 30vh;
 
 }
 
-#chef{
+#container{
   display: flex;
-
+  justify-content: space-around;
 }
-
-
-.container{
-   width: 50%;
-  }
